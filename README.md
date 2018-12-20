@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is GitHub Learning Lab 
 
 ## What it does
 
-FEATURES PLACEHOLDER
+It is helps to understand how the GitHub works 
 
 ## Getting started
 
